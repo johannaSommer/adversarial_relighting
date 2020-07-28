@@ -1,0 +1,10 @@
+matplotlib
+kornia
+torch
+torchvision
+facenet-pytorch
+pandas
+scikit-image
+googledrivedownloader
+tqdm
+Pillow
