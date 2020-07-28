@@ -1,3 +1,6 @@
 [submodule "relighters/multi_illumination"]
 	path = relighters/multi_illumination
 	url = https://github.com/lmurmann/multi_illumination.git
+[submodule "relighters/DPR"]
+	path = relighters/DPR
+	url = https://github.com/zhhoper/DPR.git
